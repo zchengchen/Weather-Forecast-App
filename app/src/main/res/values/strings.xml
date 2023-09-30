@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cloud</string>
+
+    <string-array name="temperature_unit">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+</resources>

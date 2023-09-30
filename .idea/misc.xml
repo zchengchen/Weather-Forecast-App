@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/app_icon.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/back.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/cloudy.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/item_bg.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/message.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/other.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/rainy.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/sunny.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/drawable/weather_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_detail.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_fragment.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_main.xml" value="0.20742753623188406" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_map.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/activity_twopane.xml" value="0.176" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/fragment_detail.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/fragment_main.xml" value="0.2" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/fragment_padmain.xml" value="0.2" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/fragment_reviewcycle.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/layout/weather_item.xml" value="0.23143115942028986" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/menu/toolbar_detail.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/menu/toolbar_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/menu/toolbar_settings.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/xml/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/cloud/app/src/main/res/xml/preference_settings.xml" value="0.11578947368421053" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/microblogApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/microblogApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/15218/Desktop/AndroidLab/Lab3/microblogApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/activity_add_blog.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/activity_detail.xml" value="0.5821474773609314" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/comment_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/fragment_me.xml" value="0.152" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/layout/myblog_item.xml" value="0.1" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.234375" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/menu/menu_main.xml" value="0.225" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/menu/menu_send.xml" value="0.225" />
+        <entry key="..\:/Users/15218/Desktop/web_program/learn/ThWeibo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24666666666666667" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_detail.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_main.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_readdm.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/fragment_home.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/fragment_me.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/layout/myblog_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/web_program/microBlog/microblogApp/app/src/main/res/menu/menu_send.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/add.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/add_24.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/add_a_photo.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/edit_bg.xml" value="0.22314814814814815" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/drawable/shape.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_add_blog.xml" value="0.3819444444444444" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_dmlist.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_newdm.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_newdmail.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_otherme.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_readdm.xml" value="0.14785992217898833" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/blacklist_activity.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/blacklist_item.xml" value="0.264" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/comment_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/dm_item.xml" value="0.4" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/fragment_home.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/fragment_me.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/layout/myblog_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2375" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/menu/menu_dm.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/menu/menu_main.xml" value="0.2375" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/menu/menu_send.xml" value="0.2375" />
+        <entry key="..\:/Users/15218/Desktop/work/web_program/microBlog/microblogApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21197916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

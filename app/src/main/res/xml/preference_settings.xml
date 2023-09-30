@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:hint="setting_location"
+        android:summary="Changsha"
+        android:key="setting_location"
+        android:title="Location" />
+
+    <ListPreference
+        android:entries="@array/temperature_unit"
+        android:entryValues="@array/temperature_unit"
+        android:key="temperature_unit"
+        android:summary="Celsius"
+        android:title="Temperature Units" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="setting_notification"
+        android:summary="Unabled"
+        android:theme="@style/CheckBox"
+        android:title="Weather Notifications" />
+
+</PreferenceScreen>
